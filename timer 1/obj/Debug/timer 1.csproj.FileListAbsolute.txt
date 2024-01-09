@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\timer 1\timer 1\bin\Debug\timer 1.exe.config
+C:\Users\User\source\repos\timer 1\timer 1\bin\Debug\timer 1.exe
+C:\Users\User\source\repos\timer 1\timer 1\bin\Debug\timer 1.pdb
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer_1.Form1.resources
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer_1.Properties.Resources.resources
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.exe
+C:\Users\User\source\repos\timer 1\timer 1\obj\Debug\timer 1.pdb
